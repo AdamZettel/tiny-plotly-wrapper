@@ -6,3 +6,5 @@ git clone https://github.com/AdamZettel/tiny-plotly-wrapper.git
 cd tiny-plotly-wrapper
 jupyter notebook
 ```
+## line plot
+[line_plot](demo_plots/sine_wave.png)
